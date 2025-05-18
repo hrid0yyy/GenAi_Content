@@ -13,3 +13,10 @@ A simple demo comparing **Retrieval-Augmented Generation (RAG)** vs **plain LLM 
 ### 🔗 Colab Notebook  
 [Open in Google Colab](https://colab.research.google.com/drive/17XH7iWg4cNnUt0nDHiMHwto63X2Moi3O?usp=sharing)
 
+
+## 🧠 Web Scrapped RAG Demo  
+A simple demo of using **Retrieval-Augmented Generation (RAG)** on web scrapped documents.
+
+### 🔗 Colab Notebook  
+[Open in Google Colab](https://colab.research.google.com/drive/1MSqo-6j3VmdORNWyiY78_KtFJMD2RSWT?usp=sharing)
+
