@@ -20,8 +20,8 @@ A simple demo of using **Retrieval-Augmented Generation (RAG)** on web scrapped 
 ### 🔗 Colab Notebook  
 [Open in Google Colab](https://colab.research.google.com/drive/1MSqo-6j3VmdORNWyiY78_KtFJMD2RSWT?usp=sharing)
 
-## ![image](https://github.com/user-attachments/assets/64f7627c-253b-4fdf-821a-0aa042f6bde8)
- LLM Classification Finetuning 
+## ![image](https://github.com/user-attachments/assets/64f7627c-253b-4fdf-821a-0aa042f6bde8)aggle competition
+LLM Classification Finetuning 
 This notebook fine-tunes a DistilBERT model for LLM preference prediction, using a custom reward loss to compare response pairs. It processes training and test datasets from a Kaggle competition, generating binary preference labels (winner_model_a, winner_model_b, winner_tie) for test data.
 
 ### 🔗 Colab Notebook  
